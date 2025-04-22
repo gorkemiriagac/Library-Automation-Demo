@@ -1,0 +1,730 @@
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\appsettings.json
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Library.WebUI.staticwebassets.runtime.json
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Library.WebUI.staticwebassets.endpoints.json
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Library.WebUI.exe
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Library.WebUI.deps.json
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Library.WebUI.runtimeconfig.json
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Library.WebUI.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Library.WebUI.pdb
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\Library.WebUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\Library.WebUI.AssemblyInfoInputs.cache
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\Library.WebUI.AssemblyInfo.cs
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\Library.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\Library.WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\Library.WebUI.RazorAssemblyInfo.cache
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\Library.WebUI.RazorAssemblyInfo.cs
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\scopedcss\bundle\Library.WebUI.styles.css
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\scopedcss\projectbundle\Library.WebUI.bundle.scp.css
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\4962b3kpzz-61n19gt1b8.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\z9k5pxw0s8-xtxxf3hu2r.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\82e124oqfd-bqjiyaj88i.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\okx17mz5vw-c2jlpeoesf.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\7s67a8l6b8-erw9l3u2r3.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\huhcfpxymt-aexeepp0ev.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\i4zll1uozw-d7shbmvgxk.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\cyfutzb307-ausgxo2sd3.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\3spe8m467s-k8d9w2qqmf.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\tqe5qjglwc-cosvhxvwiu.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\ne5u0vq8r8-ub07r2b239.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\ary41n3yqs-fvhpjtyr6v.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\4fumxphqon-b7pk76d08c.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\aal50v52e8-fsbi9cje9m.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\7pvnboujg4-rzd6atqjts.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\2urr4nplks-ee0r1s7dh0.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\vsx3crhucq-dxx9fxp4il.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\z3x2uvjkzq-jd9uben2k1.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\dq5r32qqyu-khv3u5hwcm.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\gi39ass0wk-r4e9w2rdcm.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\tj1zmj5jx5-lcd1t2u6c8.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\fj46h3w6fn-c2oey78nd0.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\w4vgump1hf-tdbxkamptv.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\x9c0dzcptj-j5mq2jizvt.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\1b1jr65k49-06098lyss8.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\tgsjknx95t-nvvlpmu67g.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\2lb29ni8ab-s35ty4nyc5.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\3m15aalxaz-pj5nd1wqec.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\8fohdz8fgu-46ein0sx1k.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\dl89vlzwkk-v0zj4ognzu.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\qyjwc5dabk-37tfw0ft22.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\3e8lkx4chk-hrwsygsryq.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\9t356vpftn-pk9g2wxc8p.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\21dedk0371-ft3s53vfgj.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\e2euidru77-6cfz1n2cew.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\ycgz0tmu3e-6pdc2jztkx.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\hrus2cr7qc-493y06b0oq.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\7wyvnddl2m-iovd86k7lj.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\a15jhcy19b-vr1egmr9el.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\3zowsghu9r-kbrnm935zg.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\mmh8rwpcng-jj8uyg4cgr.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\qdglwc29a0-y7v9cxd14o.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\ibgevzm1c2-notf2xhcfb.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\hp50tjy8hv-h1s4sie4z3.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\x5p3pohdvk-63fj8s7r0e.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\0olbgo3iud-0j3bgjxly4.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\6kb95s09sp-47otxtyo56.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\vg0f4z3zf4-4v8eqarkd7.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\ytn0m6w5hg-356vix0kms.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\c5j0kpqsrb-83jwlth58m.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\rpr5wfl4ki-mrlpezrjn3.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\sop7r1i0ef-lzl9nlhx6b.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\e1hcsesvae-ag7o75518u.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\yz6d2exsk3-x0q3zqp4vz.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\fqgrtj2801-0i3buxo5is.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\fqmax7v739-o1o13a6vjx.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\8y1mhwd9vg-ttgo8qnofa.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\sju3pf7ilw-2z0ns9nrw6.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\mgazjgjtri-muycvpuwrr.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\v1lg9ubqpo-87fc7y1x7t.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\kspgshzrab-mlv21k5csn.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\4o4ozh40iw-tt2dvxeofy.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\iinw1xkdhc-tt2dvxeofy.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\staticwebassets\msbuild.Library.WebUI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\staticwebassets\msbuild.Library.WebUI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\staticwebassets\msbuild.build.Library.WebUI.props
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Library.WebUI.props
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Library.WebUI.props
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\Library.WebUI.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\refint\Library.WebUI.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\Library.WebUI.pdb
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\Library.WebUI.genruntimeconfig.cache
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\ref\Library.WebUI.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\Library.WebUI.csproj.AssemblyReference.cache
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Library.DataAccess.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Library.Entity.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Library.DataAccess.pdb
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Library.Entity.pdb
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\Library..3B81DA2C.Up2Date
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Humanizer.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\klb8d66r1i-5ipweew5fc.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\kq8wut8vxp-kv2mryc81b.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\appsettings.json
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Library.WebUI.staticwebassets.endpoints.json
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Library.WebUI.staticwebassets.runtime.json
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Library.WebUI.exe
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Library.WebUI.deps.json
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Library.WebUI.runtimeconfig.json
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Library.WebUI.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Library.WebUI.pdb
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Humanizer.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Library.DataAccess.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Library.Entity.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Library.DataAccess.pdb
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Library.Entity.pdb
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\Library.WebUI.csproj.AssemblyReference.cache
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\Library.WebUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\Library.WebUI.AssemblyInfoInputs.cache
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\Library.WebUI.AssemblyInfo.cs
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\Library.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\Library.WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\Library.WebUI.RazorAssemblyInfo.cache
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\Library.WebUI.RazorAssemblyInfo.cs
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\scopedcss\bundle\Library.WebUI.styles.css
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\scopedcss\projectbundle\Library.WebUI.bundle.scp.css
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\klb8d66r1i-5ipweew5fc.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\kq8wut8vxp-kv2mryc81b.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\4962b3kpzz-61n19gt1b8.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\z9k5pxw0s8-xtxxf3hu2r.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\82e124oqfd-bqjiyaj88i.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\okx17mz5vw-c2jlpeoesf.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\7s67a8l6b8-erw9l3u2r3.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\huhcfpxymt-aexeepp0ev.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\i4zll1uozw-d7shbmvgxk.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\cyfutzb307-ausgxo2sd3.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\3spe8m467s-k8d9w2qqmf.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\tqe5qjglwc-cosvhxvwiu.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\ne5u0vq8r8-ub07r2b239.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\ary41n3yqs-fvhpjtyr6v.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\4fumxphqon-b7pk76d08c.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\aal50v52e8-fsbi9cje9m.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\7pvnboujg4-rzd6atqjts.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\2urr4nplks-ee0r1s7dh0.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\vsx3crhucq-dxx9fxp4il.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\z3x2uvjkzq-jd9uben2k1.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\dq5r32qqyu-khv3u5hwcm.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\gi39ass0wk-r4e9w2rdcm.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\tj1zmj5jx5-lcd1t2u6c8.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\fj46h3w6fn-c2oey78nd0.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\w4vgump1hf-tdbxkamptv.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\x9c0dzcptj-j5mq2jizvt.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\1b1jr65k49-06098lyss8.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\tgsjknx95t-nvvlpmu67g.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\2lb29ni8ab-s35ty4nyc5.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\3m15aalxaz-pj5nd1wqec.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\8fohdz8fgu-46ein0sx1k.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\dl89vlzwkk-v0zj4ognzu.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\qyjwc5dabk-37tfw0ft22.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\3e8lkx4chk-hrwsygsryq.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\9t356vpftn-pk9g2wxc8p.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\21dedk0371-ft3s53vfgj.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\e2euidru77-6cfz1n2cew.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\ycgz0tmu3e-6pdc2jztkx.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\hrus2cr7qc-493y06b0oq.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\7wyvnddl2m-iovd86k7lj.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\a15jhcy19b-vr1egmr9el.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\3zowsghu9r-kbrnm935zg.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\mmh8rwpcng-jj8uyg4cgr.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\qdglwc29a0-y7v9cxd14o.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\ibgevzm1c2-notf2xhcfb.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\hp50tjy8hv-h1s4sie4z3.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\x5p3pohdvk-63fj8s7r0e.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\0olbgo3iud-0j3bgjxly4.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\6kb95s09sp-47otxtyo56.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\vg0f4z3zf4-4v8eqarkd7.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\ytn0m6w5hg-356vix0kms.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\c5j0kpqsrb-83jwlth58m.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\rpr5wfl4ki-mrlpezrjn3.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\sop7r1i0ef-lzl9nlhx6b.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\e1hcsesvae-ag7o75518u.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\yz6d2exsk3-x0q3zqp4vz.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\fqgrtj2801-0i3buxo5is.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\fqmax7v739-o1o13a6vjx.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\8y1mhwd9vg-ttgo8qnofa.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\sju3pf7ilw-2z0ns9nrw6.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\mgazjgjtri-muycvpuwrr.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\v1lg9ubqpo-87fc7y1x7t.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\kspgshzrab-mlv21k5csn.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\4o4ozh40iw-tt2dvxeofy.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\iinw1xkdhc-tt2dvxeofy.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\staticwebassets\msbuild.Library.WebUI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\staticwebassets\msbuild.Library.WebUI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\staticwebassets\msbuild.build.Library.WebUI.props
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Library.WebUI.props
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Library.WebUI.props
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\Library..3B81DA2C.Up2Date
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\Library.WebUI.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\refint\Library.WebUI.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\Library.WebUI.pdb
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\Library.WebUI.genruntimeconfig.cache
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\obj\Debug\net9.0\ref\Library.WebUI.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Library.DTO.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Library.DTO.pdb
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\appsettings.json
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Library.WebUI.staticwebassets.endpoints.json
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Library.WebUI.staticwebassets.runtime.json
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Library.WebUI.exe
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Library.WebUI.deps.json
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Library.WebUI.runtimeconfig.json
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Library.WebUI.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Library.WebUI.pdb
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Humanizer.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Library.DataAccess.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Library.DTO.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Library.Entity.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Library.DataAccess.pdb
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Library.DTO.pdb
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\bin\Debug\net9.0\Library.Entity.pdb
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\Library.WebUI.csproj.AssemblyReference.cache
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\Library.WebUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\Library.WebUI.AssemblyInfoInputs.cache
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\Library.WebUI.AssemblyInfo.cs
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\Library.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\Library.WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\Library.WebUI.RazorAssemblyInfo.cache
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\Library.WebUI.RazorAssemblyInfo.cs
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\scopedcss\bundle\Library.WebUI.styles.css
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\scopedcss\projectbundle\Library.WebUI.bundle.scp.css
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\klb8d66r1i-5ipweew5fc.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\kq8wut8vxp-kv2mryc81b.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\4962b3kpzz-61n19gt1b8.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\z9k5pxw0s8-xtxxf3hu2r.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\82e124oqfd-bqjiyaj88i.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\okx17mz5vw-c2jlpeoesf.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\7s67a8l6b8-erw9l3u2r3.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\huhcfpxymt-aexeepp0ev.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\i4zll1uozw-d7shbmvgxk.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\cyfutzb307-ausgxo2sd3.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\3spe8m467s-k8d9w2qqmf.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\tqe5qjglwc-cosvhxvwiu.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\ne5u0vq8r8-ub07r2b239.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\ary41n3yqs-fvhpjtyr6v.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\4fumxphqon-b7pk76d08c.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\aal50v52e8-fsbi9cje9m.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\7pvnboujg4-rzd6atqjts.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\2urr4nplks-ee0r1s7dh0.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\vsx3crhucq-dxx9fxp4il.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\z3x2uvjkzq-jd9uben2k1.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\dq5r32qqyu-khv3u5hwcm.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\gi39ass0wk-r4e9w2rdcm.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\tj1zmj5jx5-lcd1t2u6c8.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\fj46h3w6fn-c2oey78nd0.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\w4vgump1hf-tdbxkamptv.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\x9c0dzcptj-j5mq2jizvt.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\1b1jr65k49-06098lyss8.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\tgsjknx95t-nvvlpmu67g.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\2lb29ni8ab-s35ty4nyc5.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\3m15aalxaz-pj5nd1wqec.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\8fohdz8fgu-46ein0sx1k.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\dl89vlzwkk-v0zj4ognzu.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\qyjwc5dabk-37tfw0ft22.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\3e8lkx4chk-hrwsygsryq.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\9t356vpftn-pk9g2wxc8p.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\21dedk0371-ft3s53vfgj.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\e2euidru77-6cfz1n2cew.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\ycgz0tmu3e-6pdc2jztkx.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\hrus2cr7qc-493y06b0oq.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\7wyvnddl2m-iovd86k7lj.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\a15jhcy19b-vr1egmr9el.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\3zowsghu9r-kbrnm935zg.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\mmh8rwpcng-jj8uyg4cgr.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\qdglwc29a0-y7v9cxd14o.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\ibgevzm1c2-notf2xhcfb.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\hp50tjy8hv-h1s4sie4z3.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\x5p3pohdvk-63fj8s7r0e.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\0olbgo3iud-0j3bgjxly4.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\6kb95s09sp-47otxtyo56.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\vg0f4z3zf4-4v8eqarkd7.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\ytn0m6w5hg-356vix0kms.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\c5j0kpqsrb-83jwlth58m.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\rpr5wfl4ki-mrlpezrjn3.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\sop7r1i0ef-lzl9nlhx6b.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\e1hcsesvae-ag7o75518u.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\yz6d2exsk3-x0q3zqp4vz.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\fqgrtj2801-0i3buxo5is.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\fqmax7v739-o1o13a6vjx.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\8y1mhwd9vg-ttgo8qnofa.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\sju3pf7ilw-2z0ns9nrw6.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\mgazjgjtri-muycvpuwrr.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\v1lg9ubqpo-87fc7y1x7t.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\kspgshzrab-mlv21k5csn.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\4o4ozh40iw-tt2dvxeofy.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\compressed\iinw1xkdhc-tt2dvxeofy.gz
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\staticwebassets\msbuild.Library.WebUI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\staticwebassets\msbuild.Library.WebUI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\staticwebassets\msbuild.build.Library.WebUI.props
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Library.WebUI.props
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Library.WebUI.props
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\Library..3B81DA2C.Up2Date
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\Library.WebUI.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\refint\Library.WebUI.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\Library.WebUI.pdb
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\Library.WebUI.genruntimeconfig.cache
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\obj\Debug\net9.0\ref\Library.WebUI.dll

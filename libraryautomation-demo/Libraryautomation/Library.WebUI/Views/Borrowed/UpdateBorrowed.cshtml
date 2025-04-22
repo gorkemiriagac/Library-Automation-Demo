@@ -1,0 +1,75 @@
+﻿@using Library.WebUI.Dtos.BorrowedBookDtos
+@model UpdateBorrowedBookDtos
+
+
+<div class="container-fluid bg-danger authorpg">
+
+	<div class="row">
+		@* GET TABLE*@
+		<div class="col-12" style="max-height: 500px; overflow-y: auto;">
+			<form method="post">
+				<input type="hidden" asp-for="BorrowedBookId" />
+
+				<h1 class="text-center">Update Borrowed Page</h1>
+
+				<table class="table table-bordered table-striped text-center">
+					<thead>
+						<tr>
+
+							
+							<th scope="col">Kitabı Teslim alıyorum.</th>
+							
+
+						</tr>
+					</thead>
+					<tbody >
+
+
+						<tr>
+							
+							
+							<th scope="row" style="display:none;">
+
+								<select asp-items="@ViewBag.piece" asp-for="BookId" class="form-control"  disabled>
+									<option>Select</option>
+
+								</select>
+							</th>
+							<th scope="row" style="display:none;">
+
+								<select asp-items="@ViewBag.listofbook" asp-for="BookId" class="form-control">
+									<option>Select</option>
+
+								</select>
+							</th>
+							<th scope="row" style="display:none;">
+								<select asp-items="@ViewBag.names" asp-for="MemberId" class="form-control">
+									<option>Select</option>
+								</select>
+							</th>
+							<th scope="row" style="display:none;">
+								<select class="form-control" asp-for="IsActive" disabled>
+								
+								<option>False</option>
+							</select></th>
+							<th scope="row">
+
+								<button type="submit" class="btn btn-success">Accept</button>
+							</th>
+
+						</tr>
+
+					</tbody>
+				</table>
+
+
+			</form>
+		</div>
+	</div>
+	@ViewBag.Update
+
+
+	@* ADD TABLE*@
+
+</div>
+

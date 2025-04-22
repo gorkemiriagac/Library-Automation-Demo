@@ -1,0 +1,17 @@
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.Business\bin\Release\net9.0\Library.Business.deps.json
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.Business\bin\Release\net9.0\Library.Business.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.Business\bin\Release\net9.0\Library.Business.pdb
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.Business\bin\Release\net9.0\Library.DataAccess.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.Business\bin\Release\net9.0\Library.Entity.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.Business\bin\Release\net9.0\Library.DataAccess.pdb
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.Business\bin\Release\net9.0\Library.Entity.pdb
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.Business\obj\Release\net9.0\Library.Business.csproj.AssemblyReference.cache
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.Business\obj\Release\net9.0\Library.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.Business\obj\Release\net9.0\Library.Business.AssemblyInfoInputs.cache
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.Business\obj\Release\net9.0\Library.Business.AssemblyInfo.cs
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.Business\obj\Release\net9.0\Library.Business.csproj.CoreCompileInputs.cache
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.Business\obj\Release\net9.0\Library..A25BF0A9.Up2Date
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.Business\obj\Release\net9.0\Library.Business.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.Business\obj\Release\net9.0\refint\Library.Business.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.Business\obj\Release\net9.0\Library.Business.pdb
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.Business\obj\Release\net9.0\ref\Library.Business.dll

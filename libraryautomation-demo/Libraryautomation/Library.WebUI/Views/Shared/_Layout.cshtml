@@ -1,0 +1,161 @@
+﻿@using Library.Entity.Entities
+@using Microsoft.AspNetCore.Identity
+@inject UserManager<IdentityConfig> userManager
+@{
+    var user = await userManager.GetUserAsync(User);
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Library Automation</title>
+    <script type="importmap"></script>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Library.WebUI.styles.css" asp-append-version="true" />
+    <link href="~/css/style.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+
+</head>
+<body class="d-flex">
+    <header>
+
+
+    </header>
+    <div class="d-flex flex-column flex-shrink-0 p-3 text-bg-dark" style="width: 280px;height:100vh;">
+        <a href="/" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-white text-decoration-none">
+            <svg class="bi pe-none me-1" width="40" height="32" aria-hidden="true"><use xlink:href="#bootstrap"></use></svg>
+            <span class="fs-4">Library Automation</span>
+        </a>
+        <hr>
+
+        @*
+            Admin Sidebar 
+        *@
+        @{// todo siderbar tasarlancak
+            if(user == null)
+            {
+                
+                <ul class="nav nav-pills flex-column mb-auto">
+
+
+                    <li>
+                        <a href="/Home/Index" class="nav-link text-white">
+                            <svg class="bi pe-none me-2" width="16" height="16" aria-hidden="true"><use xlink:href="#people-circle"></use></svg>
+                            Home Page
+                        </a>
+                    </li>
+
+                   
+
+                </ul>
+            }
+            else if(user.isAdmin==true){
+                <ul class="nav nav-pills flex-column mb-auto">
+
+
+                    <li>
+                        <a href="/Home/Index" class="nav-link text-white">
+                            <svg class="bi pe-none me-2" width="16" height="16" aria-hidden="true"><use xlink:href="#people-circle"></use></svg>
+                            Home Page
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/Author/AdminAuthor" class="nav-link text-white">
+                            <svg class="bi pe-none me-2" width="16" height="16" aria-hidden="true"><use xlink:href="#people-circle"></use></svg>
+                            Authors
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/Book/AdminBook" class="nav-link text-white">
+                            <svg class="bi pe-none me-2" width="16" height="16" aria-hidden="true"><use xlink:href="#people-circle"></use></svg>
+                            Books
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/Borrowed/AdminBorrowed" class="nav-link text-white">
+                            <svg class="bi pe-none me-2" width="16" height="16" aria-hidden="true"><use xlink:href="#people-circle"></use></svg>
+                            Borrowed Books
+                        </a>
+                    </li>
+                 
+
+                </ul>
+            }
+            else{
+                <ul class="nav nav-pills flex-column mb-auto">
+
+
+                    <li>
+                        <a href="/Home/Index" class="nav-link text-white">
+                            <svg class="bi pe-none me-2" width="16" height="16" aria-hidden="true"><use xlink:href="#people-circle"></use></svg>
+                            Home Page
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="/Borrowed/MyBook" class="nav-link text-white">
+                            <svg class="bi pe-none me-2" width="16" height="16" aria-hidden="true"><use xlink:href="#people-circle"></use></svg>
+                            My Books
+                        </a>
+                    </li>
+                   
+                </ul>
+            }
+        }
+        @*
+            Member Sidebar
+        *@
+       
+        <hr>
+        <div class="dropdown">
+            <a href="#" class="d-flex align-items-center text-white text-decoration-none dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+                <img src="https://github.com/mdo.png" alt="" width="32" height="32" class="rounded-circle me-2">
+                @if(user !=null)
+                {
+                    <strong>@user.FullName</strong>
+                }
+                else{
+                    <strong>Sign In</strong>
+                }
+               
+            </a>
+            <ul class="dropdown-menu dropdown-menu-dark text-small shadow">
+                @if(user!=null){
+                    <li><a class="dropdown-item" href="#">Profile</a></li>
+                    <li><hr class="dropdown-divider"></li>
+                    <li><a class="dropdown-item" href="/Home/SignOut">Sign out</a></li>
+                }
+                else{
+                    <li><a class="dropdown-item" href="/Home/SignUp">Sign Up</a></li>
+                    <li><a class="dropdown-item" href="/Home/SignIn">Sign In</a></li>
+                }
+                @*
+                <li><a class="dropdown-item" href="/Home/SignUp">Sign Up</a></li>
+                <li><a class="dropdown-item" href="/Home/SignIn">Sign In</a></li>
+                <li><a class="dropdown-item" href="#">Profile</a></li>
+                <li><hr class="dropdown-divider"></li>
+                <li><a class="dropdown-item" href="/Home/SignOut">Sign out</a></li>
+                *@
+            </ul>
+        </div>
+    </div>
+    <div class="container-fluid m-0 p-0">
+        <main role="main" class="">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+      
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

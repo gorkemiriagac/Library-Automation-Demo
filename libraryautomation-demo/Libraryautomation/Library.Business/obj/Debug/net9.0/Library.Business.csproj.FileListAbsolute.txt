@@ -1,0 +1,55 @@
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.Business\bin\Debug\net9.0\Library.Business.deps.json
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.Business\bin\Debug\net9.0\Library.Business.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.Business\bin\Debug\net9.0\Library.Business.pdb
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.Business\bin\Debug\net9.0\Library.DataAccess.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.Business\bin\Debug\net9.0\Library.Entity.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.Business\bin\Debug\net9.0\Library.DataAccess.pdb
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.Business\bin\Debug\net9.0\Library.Entity.pdb
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.Business\obj\Debug\net9.0\Library.Business.csproj.AssemblyReference.cache
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.Business\obj\Debug\net9.0\Library.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.Business\obj\Debug\net9.0\Library.Business.AssemblyInfoInputs.cache
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.Business\obj\Debug\net9.0\Library.Business.AssemblyInfo.cs
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.Business\obj\Debug\net9.0\Library.Business.csproj.CoreCompileInputs.cache
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.Business\obj\Debug\net9.0\Library..A25BF0A9.Up2Date
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.Business\obj\Debug\net9.0\Library.Business.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.Business\obj\Debug\net9.0\refint\Library.Business.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.Business\obj\Debug\net9.0\Library.Business.pdb
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.Business\obj\Debug\net9.0\ref\Library.Business.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.Business\bin\Debug\net9.0\Library.Business.deps.json
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.Business\bin\Debug\net9.0\Library.Business.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.Business\bin\Debug\net9.0\Library.Business.pdb
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.Business\bin\Debug\net9.0\Library.DataAccess.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.Business\bin\Debug\net9.0\Library.Entity.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.Business\bin\Debug\net9.0\Library.DataAccess.pdb
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.Business\bin\Debug\net9.0\Library.Entity.pdb
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.Business\obj\Debug\net9.0\Library.Business.csproj.AssemblyReference.cache
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.Business\obj\Debug\net9.0\Library.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.Business\obj\Debug\net9.0\Library.Business.AssemblyInfoInputs.cache
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.Business\obj\Debug\net9.0\Library.Business.AssemblyInfo.cs
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.Business\obj\Debug\net9.0\Library.Business.csproj.CoreCompileInputs.cache
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.Business\obj\Debug\net9.0\Library..A25BF0A9.Up2Date
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.Business\obj\Debug\net9.0\Library.Business.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.Business\obj\Debug\net9.0\refint\Library.Business.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.Business\obj\Debug\net9.0\Library.Business.pdb
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.Business\obj\Debug\net9.0\ref\Library.Business.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.Business\bin\Debug\net9.0\Library.DTO.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - Kopya\Libraryautomation\Library.Business\bin\Debug\net9.0\Library.DTO.pdb
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.Business\bin\Debug\net9.0\Library.Business.deps.json
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.Business\bin\Debug\net9.0\Library.Business.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.Business\bin\Debug\net9.0\Library.Business.pdb
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.Business\bin\Debug\net9.0\Library.DataAccess.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.Business\bin\Debug\net9.0\Library.DTO.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.Business\bin\Debug\net9.0\Library.Entity.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.Business\bin\Debug\net9.0\Library.DataAccess.pdb
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.Business\bin\Debug\net9.0\Library.DTO.pdb
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.Business\bin\Debug\net9.0\Library.Entity.pdb
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.Business\obj\Debug\net9.0\Library.Business.csproj.AssemblyReference.cache
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.Business\obj\Debug\net9.0\Library.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.Business\obj\Debug\net9.0\Library.Business.AssemblyInfoInputs.cache
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.Business\obj\Debug\net9.0\Library.Business.AssemblyInfo.cs
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.Business\obj\Debug\net9.0\Library.Business.csproj.CoreCompileInputs.cache
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.Business\obj\Debug\net9.0\Library..A25BF0A9.Up2Date
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.Business\obj\Debug\net9.0\Library.Business.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.Business\obj\Debug\net9.0\refint\Library.Business.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.Business\obj\Debug\net9.0\Library.Business.pdb
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.Business\obj\Debug\net9.0\ref\Library.Business.dll

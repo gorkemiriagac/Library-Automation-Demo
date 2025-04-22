@@ -1,0 +1,15 @@
+﻿body {
+    
+}
+
+.authorpg{
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.adminbook{
+    overflow-y:auto;
+    
+    
+}

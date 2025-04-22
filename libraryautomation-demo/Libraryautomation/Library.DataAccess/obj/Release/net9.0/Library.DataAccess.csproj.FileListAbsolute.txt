@@ -1,0 +1,15 @@
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.DataAccess\bin\Release\net9.0\Library.DataAccess.deps.json
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.DataAccess\bin\Release\net9.0\Library.DataAccess.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.DataAccess\bin\Release\net9.0\Library.DataAccess.pdb
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.DataAccess\bin\Release\net9.0\Library.Entity.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.DataAccess\bin\Release\net9.0\Library.Entity.pdb
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.DataAccess\obj\Release\net9.0\Library.DataAccess.csproj.AssemblyReference.cache
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.DataAccess\obj\Release\net9.0\Library.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.DataAccess\obj\Release\net9.0\Library.DataAccess.AssemblyInfoInputs.cache
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.DataAccess\obj\Release\net9.0\Library.DataAccess.AssemblyInfo.cs
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.DataAccess\obj\Release\net9.0\Library.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.DataAccess\obj\Release\net9.0\Library..1A4F41CD.Up2Date
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.DataAccess\obj\Release\net9.0\Library.DataAccess.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.DataAccess\obj\Release\net9.0\refint\Library.DataAccess.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.DataAccess\obj\Release\net9.0\Library.DataAccess.pdb
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.DataAccess\obj\Release\net9.0\ref\Library.DataAccess.dll

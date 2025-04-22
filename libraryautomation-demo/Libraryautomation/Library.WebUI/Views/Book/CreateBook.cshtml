@@ -1,0 +1,52 @@
+﻿@using Library.WebUI.Dtos.BookDtos
+@model CreateBookDtos
+
+<div class="container-fluid bg-danger authorpg">
+
+	<div class="row">
+		@* GET TABLE*@
+		<div class="col-12" style="max-height: 500px; overflow-y: auto;">
+			<form method="post">
+				<h1 class="text-center">Create Book Page</h1>
+				<table class="table table-bordered table-striped text-center">
+					<thead>
+						<tr>
+
+							<th scope="col">Book Name</th>
+							<th scope="col">Author Name</th>
+							<th scope="col">Piece</th>
+							<th scope="col">Add Book</th>
+
+						</tr>
+					</thead>
+					<tbody>
+
+
+						<tr>
+							<th scope="row"><input type="text" class="form-control" asp-for="BookName" placeholder="New Book Name" /></th>
+							<th scope="row">
+								<select asp-items="@ViewBag.selects" asp-for="AuthorID" class="form-control">
+									<option>Select</option>
+								</select>
+							</th>
+							<th scope="row"><input type="text" class="form-control" asp-for="Piece" /></th>
+							<th scope="row">
+
+								<button type="submit" class="btn btn-success">Add</button>
+							</th>
+
+						</tr>
+
+					</tbody>
+				</table>
+
+			</form>
+		</div>
+	</div>
+	@ViewBag.Error
+
+
+	@* ADD TABLE*@
+
+</div>
+

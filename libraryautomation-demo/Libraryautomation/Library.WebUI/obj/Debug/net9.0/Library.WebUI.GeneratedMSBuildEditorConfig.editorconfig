@@ -1,0 +1,113 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Library.WebUI
+build_property.RootNamespace = Library.WebUI
+build_property.ProjectDir = C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\gorke\OneDrive\Masaüstü\libraryautomation - 20.04.2025-23.30\Libraryautomation\Library.WebUI
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/gorke/OneDrive/Masaüstü/libraryautomation - 20.04.2025-23.30/Libraryautomation/Library.WebUI/Views/Author/AdminAuthor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yXEFkbWluQXV0aG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gorke/OneDrive/Masaüstü/libraryautomation - 20.04.2025-23.30/Libraryautomation/Library.WebUI/Views/Author/CreateAuthor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yXENyZWF0ZUF1dGhvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gorke/OneDrive/Masaüstü/libraryautomation - 20.04.2025-23.30/Libraryautomation/Library.WebUI/Views/Author/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gorke/OneDrive/Masaüstü/libraryautomation - 20.04.2025-23.30/Libraryautomation/Library.WebUI/Views/Author/UpdateAuthor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yXFVwZGF0ZUF1dGhvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gorke/OneDrive/Masaüstü/libraryautomation - 20.04.2025-23.30/Libraryautomation/Library.WebUI/Views/Book/AdminBook.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xBZG1pbkJvb2suY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gorke/OneDrive/Masaüstü/libraryautomation - 20.04.2025-23.30/Libraryautomation/Library.WebUI/Views/Book/CreateBook.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xDcmVhdGVCb29rLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gorke/OneDrive/Masaüstü/libraryautomation - 20.04.2025-23.30/Libraryautomation/Library.WebUI/Views/Book/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gorke/OneDrive/Masaüstü/libraryautomation - 20.04.2025-23.30/Libraryautomation/Library.WebUI/Views/Book/UpdateBook.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xVcGRhdGVCb29rLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gorke/OneDrive/Masaüstü/libraryautomation - 20.04.2025-23.30/Libraryautomation/Library.WebUI/Views/Borrowed/AdminBorrowed.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9ycm93ZWRcQWRtaW5Cb3Jyb3dlZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gorke/OneDrive/Masaüstü/libraryautomation - 20.04.2025-23.30/Libraryautomation/Library.WebUI/Views/Borrowed/CreateBorrowed.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9ycm93ZWRcQ3JlYXRlQm9ycm93ZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gorke/OneDrive/Masaüstü/libraryautomation - 20.04.2025-23.30/Libraryautomation/Library.WebUI/Views/Borrowed/MyBook.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9ycm93ZWRcTXlCb29rLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gorke/OneDrive/Masaüstü/libraryautomation - 20.04.2025-23.30/Libraryautomation/Library.WebUI/Views/Borrowed/UpdateBorrowed.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9ycm93ZWRcVXBkYXRlQm9ycm93ZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gorke/OneDrive/Masaüstü/libraryautomation - 20.04.2025-23.30/Libraryautomation/Library.WebUI/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gorke/OneDrive/Masaüstü/libraryautomation - 20.04.2025-23.30/Libraryautomation/Library.WebUI/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gorke/OneDrive/Masaüstü/libraryautomation - 20.04.2025-23.30/Libraryautomation/Library.WebUI/Views/Home/SignIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaWduSW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gorke/OneDrive/Masaüstü/libraryautomation - 20.04.2025-23.30/Libraryautomation/Library.WebUI/Views/Home/SignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaWduVXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gorke/OneDrive/Masaüstü/libraryautomation - 20.04.2025-23.30/Libraryautomation/Library.WebUI/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gorke/OneDrive/Masaüstü/libraryautomation - 20.04.2025-23.30/Libraryautomation/Library.WebUI/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gorke/OneDrive/Masaüstü/libraryautomation - 20.04.2025-23.30/Libraryautomation/Library.WebUI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gorke/OneDrive/Masaüstü/libraryautomation - 20.04.2025-23.30/Libraryautomation/Library.WebUI/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gorke/OneDrive/Masaüstü/libraryautomation - 20.04.2025-23.30/Libraryautomation/Library.WebUI/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-yf57e2znct

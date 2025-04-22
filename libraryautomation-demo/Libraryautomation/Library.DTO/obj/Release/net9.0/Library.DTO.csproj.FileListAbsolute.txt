@@ -1,0 +1,15 @@
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.DTO\bin\Release\net9.0\Library.DTO.deps.json
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.DTO\bin\Release\net9.0\Library.DTO.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.DTO\bin\Release\net9.0\Library.DTO.pdb
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.DTO\bin\Release\net9.0\Library.Entity.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.DTO\bin\Release\net9.0\Library.Entity.pdb
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.DTO\obj\Release\net9.0\Library.DTO.csproj.AssemblyReference.cache
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.DTO\obj\Release\net9.0\Library.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.DTO\obj\Release\net9.0\Library.DTO.AssemblyInfoInputs.cache
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.DTO\obj\Release\net9.0\Library.DTO.AssemblyInfo.cs
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.DTO\obj\Release\net9.0\Library.DTO.csproj.CoreCompileInputs.cache
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.DTO\obj\Release\net9.0\Library..FC9BACFE.Up2Date
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.DTO\obj\Release\net9.0\Library.DTO.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.DTO\obj\Release\net9.0\refint\Library.DTO.dll
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.DTO\obj\Release\net9.0\Library.DTO.pdb
+C:\Users\gorke\OneDrive\Masaüstü\libraryautomation\Libraryautomation\Library.DTO\obj\Release\net9.0\ref\Library.DTO.dll

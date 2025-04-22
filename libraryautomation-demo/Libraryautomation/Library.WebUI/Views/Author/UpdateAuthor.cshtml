@@ -1,0 +1,46 @@
+﻿@using Library.WebUI.Dtos.AuthorDtos
+@model UpdateAuthorDto
+
+
+<div class="container-fluid bg-danger authorpg">
+
+	<div class="row">
+		
+		<div class="col-12" style="max-height: 500px; overflow-y: auto;">
+			<form method="post">
+				<input type="hidden" asp-for="AuthorId" />
+
+				<h1 class="text-center">Update Author Page</h1>
+
+				<table class="table table-bordered table-striped text-center">
+					<thead>
+						<tr>							
+							<th scope="col">Author Name</th>
+							<th scope="col">Button</th>
+						</tr>
+					</thead>
+					<tbody>
+
+
+						<tr>
+
+							<th scope="row"><input type="text" class="form-control" asp-for="FullName" /></th>
+							
+							
+							<th scope="row">
+								<button type="submit" class="btn btn-info">Update</button>
+							</th>
+
+						</tr>
+
+					</tbody>
+				</table>
+
+
+			</form>
+		</div>
+	</div>
+	@ViewBag.Author
+
+</div>
+

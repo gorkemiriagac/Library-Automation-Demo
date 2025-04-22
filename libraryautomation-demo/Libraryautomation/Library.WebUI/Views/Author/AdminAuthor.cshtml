@@ -1,0 +1,68 @@
+﻿@{
+	ViewData["Title"] = "Author Page";
+}
+@using Library.WebUI.Dtos.AuthorDtos
+@model List<ResultAuthorDto>
+
+
+<div class="container-fluid bg-danger authorpg">
+	<div class="row">
+		<div class="head text-center">
+			<h1 class="text-center">Author Panel</h1>
+			<a href="/Author/CreateAuthor" class="btn btn-success my-2">Add New Author</a>
+		</div>
+		<table class="table table-bordered table-striped text-center">
+			
+			<thead>
+				<tr>
+					<th scope="col">Author ID</th>
+					<th scope="col">Author Name</th>
+					<th scope="col">Buttons</th>
+
+				</tr>
+			</thead>
+			<tbody>
+
+				@foreach (var item in Model)
+				{
+					
+					<tr>
+						<th scope="row">@item.AuthorId</th>
+						<td>@item.FullName</td>
+						<td>
+							
+							<a asp-action="UpdateAuthor" asp-route-id="@item.AuthorId" class="btn btn-info">Update</a>
+
+
+							<button onclick="deleteAuthor(@item.AuthorId)" class="btn btn-danger">Delete</button>
+							
+						</td>
+
+					</tr>
+				}
+
+			</tbody>
+		</table>
+	</div>
+
+</div>
+
+<script>
+	function deleteAuthor(id){
+
+		Swal.fire({
+			title:"Silmek istediğine emin misin?",
+			text: "geri alamazsın",
+			icon:"warning",
+			showCancelButton:true,
+			confirmButtonColor:"#3085d6",
+			cancelButtonColor:"#d33",
+			confirmButtonText:"Evet, silmek istiyorum",
+			cancelButtonText:"Hayır, silme"
+		}).then((result)=>{
+			if(result.isConfirmed){
+				window.location.href = "/Author/DeleteAuthor/" + id;
+			}
+		});
+	}
+</script>

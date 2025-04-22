@@ -1,0 +1,63 @@
+﻿@using Library.WebUI.Dtos.BorrowedBookDtos
+@model CreateBorrowedBookDtos
+
+<div class="container-fluid bg-danger authorpg">
+
+	<div class="row">
+		@* GET TABLE*@
+		<div class="col-12" style="max-height: 500px; overflow-y: auto;">
+			<form method="post">
+				<h1 class="text-center">Create Borrowed Page</h1>
+				<table class="table table-bordered table-striped text-center">
+					<thead>
+						<tr>
+
+
+							<th scope="col">Book Name</th>
+							<th scope="col">Member Name</th>
+							<th scope="col">Button</th>
+
+
+						</tr>
+					</thead>
+					<tbody>
+
+						
+ 
+						<tr>
+							<th scope="row">
+								
+								<select asp-items="@ViewBag.listofbook" asp-for="BookId" class="form-control">
+									<option>Select</option>
+									
+								</select>
+							</th>
+							<th scope="row">
+								<select asp-items="@ViewBag.names" asp-for="MemberId" class="form-control">
+									<option>Select</option>
+								</select>
+							</th>
+							
+
+
+							<th scope="row">
+
+								<button type="submit" class="btn btn-success">Add</button>
+							</th>
+
+						</tr>
+
+					</tbody>
+				</table>
+
+			</form>
+		</div>
+	</div>
+	@ViewBag.Error
+
+
+
+	@* ADD TABLE*@
+
+</div>
+

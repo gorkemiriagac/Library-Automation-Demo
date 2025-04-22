@@ -1,0 +1,42 @@
+﻿@using Library.Entity.Entities
+@using Library.WebUI.Dtos.BorrowedBookDtos
+@using Microsoft.AspNetCore.Identity
+@model List<ResultBorrowedBook>
+@inject UserManager<IdentityConfig> userManager
+@{
+	var user = await userManager.GetUserAsync(User);
+}
+<div class="container-fluid bg-danger authorpg">
+	<div class="row">
+
+		<div class="col-md-12 adminbook">
+			<div class="head text-center">
+				<h1 class="text-center">My Books</h1>
+			</div>
+
+
+			<table class="table table-bordered table-striped text-center">
+				<thead>
+					<tr>
+
+						<th scope="col">Received Time</th>
+						<th scope="col">Book Name</th>
+						
+
+
+					</tr>
+				</thead>
+				<tbody>
+					@foreach (var item in Model)
+					{
+						<tr>
+							<td>@item.Time</td>
+							<td>@item.Book.BookName</td>
+							
+						</tr>
+					}
+				</tbody>
+			</table>
+		</div>
+	</div>
+</div>
